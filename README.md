@@ -26,3 +26,9 @@ python imgs2poses.py
 ```
  python run_nerf.py --config configs/myvideo.txt
 ```
+
+# NeRF模型测试
+```
+ python test_psnr.py
+```
+
